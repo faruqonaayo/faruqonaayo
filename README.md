@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @faruqonaayo
-- 👀 I’m interested in coding and software design
-- 🌱 I’m currently learning React JS, Next JS, PL/SQL
+- 👋 Hi, I’m Faruq. A software developer that is always motivated to learn new things
+- 👀 I love using code to sole real-world problems
 - 💞️ I’m looking to collaborate on different full stack projects
 - ⚡ Fun fact: Keep learning😅
 
