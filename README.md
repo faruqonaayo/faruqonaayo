@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Faruq. A software developer that is always motivated to learn new things
-- 👀 I love using code to sole real-world problems
+- 👀 I love using code to solve real-world problems
 - 💞️ I’m looking to collaborate on different full stack projects
 - ⚡ Fun fact: Keep learning😅
 
